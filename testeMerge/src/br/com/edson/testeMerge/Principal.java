@@ -8,6 +8,9 @@ public class Principal {
 		//TesteMerge t = new TesteMerge();
 		
 		System.out.println("agora sem o teste merge");
+		TesteMerge t = new TesteMerge();
+		
+		System.out.println(t.teste());
 
 	}
 
